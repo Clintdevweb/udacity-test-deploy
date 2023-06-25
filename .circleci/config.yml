@@ -20,3 +20,4 @@ jobs:
           name: Install API Dependencies
           command: |
             npm run backend:install
+            echo "Hello word"
